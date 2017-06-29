@@ -4,7 +4,6 @@
   - Firebase
   - Boostrap
 
-
 ## Installation
 
 ----
