@@ -1,7 +1,7 @@
 # Sign-in & Sign-up App. with ReactJs/Firebase!
 
   - React Router 4
-  - Firebase
+  - Firebase(Edit " config/constants " with your own firebase config)
   - Boostrap
 
 ## Installation
@@ -18,10 +18,14 @@ $ cd Auth-userLogin-example
 ```
 
 ```sh
+$ npm install
+```
+
+```sh
 $ npm start
 ```
 
-Look: 
+Look at: 
 ```sh
 localhost:3000
 ```
